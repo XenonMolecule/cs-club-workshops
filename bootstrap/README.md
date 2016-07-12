@@ -45,7 +45,7 @@ There are multiple ways to add bootstrap to your project here we will go over tw
 
 To download bootstrap, go to the [bootstrap website](https://getbootstrap.com), and click the "Download Bootstrap" button
 
-![](img/bootstrapDownload.png)
+![](img/bootstrapDownload.PNG)
 
 And "Download Bootstrap" again on the following page
 
@@ -223,7 +223,7 @@ To do this, I will add this code inside of the container div
 
 Now my site looks like this:
 
-![](img/siteJumbotron.png)
+![](img/siteJumbotron.PNG)
 
 That looks alright, but I want to center this content, I can do that with regular CSS
 
@@ -242,7 +242,7 @@ To do this go to your CSS file, and add the following code:
 
 Now my site looks like this:
 
-![](img/siteJumbotronCentered.png)
+![](img/siteJumbotronCentered.PNG)
 
 Congratulations, you have successfully added a jumbotron to your website
 
@@ -262,13 +262,13 @@ I will start by adding a regular button to my jumbotron
 
 Now my site looks like this:
 
-![](img/siteBoringButton.png)
+![](img/siteBoringButton.PNG)
 
 Sure that would work for most articles of clothing, but we are talking about socks here, I need something a bit more interesting
 
 Here are the types of button styles that bootstrap makes for us
 
-![](img/buttonTypes.png)
+![](img/buttonTypes.PNG)
 
 I like the primary type for my website, but you could choose whichever you like best
 
@@ -282,13 +282,13 @@ If you want to choose a different style, use the name of the style instead of pr
 
 Now my site looks like this:
 
-![](img/siteBetterButton.png)
+![](img/siteBetterButton.PNG)
 
 I like that much better, but I really want people to notice my button, maybe making it a bit bigger would catch people's attention
 
 Once again bootstrap comes to the rescue
 
-![](img/buttonSizes.png)
+![](img/buttonSizes.PNG)
 
 To make my button larger, all I need to do is add one more class to my button, the "btn-lg" class
 
@@ -307,7 +307,7 @@ If you want to make your button any of the other sizes, all you have to do is ad
 
 Now my site looks like this
 
-![](img/siteBestButton.png)
+![](img/siteBestButton.PNG)
 
 This is not the point of this workshop, so I will not go into detail, but I am going to add functionality to the button
 
@@ -518,7 +518,7 @@ Your nav element should now look like this (besides naming differences):
 
 My site now looks like this:
 
-![](img/siteWithNav.png)
+![](img/siteWithNav.PNG)
 
 And since we put in that extra work to make it collapsible, on small screens and mobile the navbar looks like this:
 
@@ -544,7 +544,7 @@ To start let's find where they talk about labels on the bootstrap site
 
 First we will check the "CSS" tab:
 
-![](img/bootstrapCSS.png)
+![](img/bootstrapCSS.PNG)
 
 Next we should look at the sidebar to determine whether this page has what we are looking for:
 
@@ -554,11 +554,11 @@ I don't know about you, but I don't see anything about labels
 
 Now let's try the "Components" tab:
 
-![](img/bootstrapComponents.png)
+![](img/bootstrapComponents.PNG)
 
 Now let's scroll down a bit and look at the sidebar
 
-![](img/bootstrapComponentsSidebar.png)
+![](img/bootstrapComponentsSidebar.PNG)
 
 Looks like it's there
 
@@ -568,7 +568,7 @@ The first thing you want to do is look at the example, and determine if this is 
 
 (Just in case the bootstrap site changes this is what we are working with):
 
-![](img/bootstrapLabels.png)
+![](img/bootstrapLabels.PNG)
 
 This looks like exactly what we wanted.
 
@@ -588,7 +588,7 @@ Just like before let's start by looking at what this section has to offer throug
 
 (Just incase the site changes or you don't have access):
 
-![](img/bootstrapLabelVariations.png)
+![](img/bootstrapLabelVariations.PNG)
 
 If you used this tutorial for adding the button, you should recognize these styles.  They are available with almost all of the bootstrap components that it would make sense to include them with.
 
@@ -635,7 +635,7 @@ Try adding it yourself, and if you have trouble, no problem, you are still learn
 
 This is how my site looks now:
 
-![](img/siteLabel.png)
+![](img/siteLabel.PNG)
 
 For anyone who got a bit stuck, no problem, here is how to do it
 
